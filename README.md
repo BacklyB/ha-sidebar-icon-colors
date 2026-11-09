@@ -4,6 +4,10 @@
 
 Color the icons in the Home Assistant **sidebar** and in **dashboard view tabs**, configured with a card in the UI. No YAML per icon, no theme editing.
 
+![Colored sidebar and the editor card](docs/screenshot.png)
+
+*Example: on the left the colored sidebar, on the right the editor card (German UI). "Simon42 Dashboard" uses 4 quarters (red, yellow, green, blue), "Zigbee2MQTT" a single color, "Kalender" a gradient from pink to purple.*
+
 Styles per icon:
 
 - **Single color**
@@ -75,6 +79,10 @@ MIT, see [LICENSE](LICENSE).
 # Sidebar Icon Colors für Home Assistant (Deutsch)
 
 Färbt die Icons in der **Seitenleiste** und in den **Tabs von Dashboards** von Home Assistant ein. Eingestellt wird alles über eine Karte in der Oberfläche, ohne YAML pro Icon und ohne Theme-Bastelei.
+
+![Eingefärbte Seitenleiste und die Editor-Karte](docs/screenshot.png)
+
+*Beispiel: links die eingefärbte Seitenleiste, rechts die Editor-Karte. „Simon42 Dashboard“ nutzt 4 Viertel (Rot, Gelb, Grün, Blau), „Zigbee2MQTT“ eine Farbe, „Kalender“ einen Verlauf von Pink nach Lila.*
 
 Stile pro Icon:
 
